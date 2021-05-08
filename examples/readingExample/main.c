@@ -8,9 +8,13 @@ int main()
 
     phiInOutParameters pInOut;
 
-    pInOut.fileName = "nnInputOutputFile.csv";
+    //pInOut.fileName = "nnInputOutputFile.csv";
 
-    readFileFromCSV(&pInOut);
+    //readFileFromCSV(&pInOut);
+
+    pInOut.fileName = "nnInputOutputFile.txt";
+
+    readFileFromText(&pInOut);
 
     writeDataSetMatrices(&pInOut);
 
