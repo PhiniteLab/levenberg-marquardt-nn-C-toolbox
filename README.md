@@ -1,1 +1,1 @@
-# levenberg-marquardt-nn-C-toolbox
+# levenberg-marquardt-nn-matlab-toolbox

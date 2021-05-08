@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "phinnlibsettings.h": "c",
+        "cstdlib": "c"
+    }
+}
