@@ -1,4 +1,4 @@
-# levenberg-marquardt-nn-matlab-toolbox
+# levenberg-marquardt-nn-C-toolbox
 
 NEURAL NETWORK LIBRARY - LEVENBERG MARQUARDT OPTIMIZATION
 
